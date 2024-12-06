@@ -9,8 +9,11 @@ import Contact from "./component/Contact.js";
 function App() {
   return (
     <div className="app">
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css"></link>
+
       <Sidebar />
       <div className="sections">
+
         <MainSection />
         <About />
         <Education />

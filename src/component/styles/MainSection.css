@@ -7,6 +7,8 @@
   padding: 50px;
   height: 100vh; /* Ensure the section takes full viewport height */
   margin-left: 100px; /* Keep this if you still need to account for sidebar */
+  padding-bottom: 0px;
+  padding-top: 0px;
   }
   .avatar img {
     width: 180px;
