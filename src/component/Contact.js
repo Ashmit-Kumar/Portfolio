@@ -23,7 +23,13 @@ function Contact() {
 
   return (
     <section className="contact-section">
-      <h2 className="contact-title">Get In Touch</h2>
+      <div>
+        <h2 className="contact-title">Get In Touch</h2>
+        <p className="contact-message">
+        Lets Talk About Everything!<br></br>
+        Don't Like Forms? Send Me an Email.
+        </p>
+      </div>
       <form className="contact-form" onSubmit={handleSubmit}>
         <input
           type="text"

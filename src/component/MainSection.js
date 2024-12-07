@@ -6,7 +6,7 @@ import Shapes from "./Shapes";
 function MainSection() {
   return (
     <div className="main-section">
-      <div className="avatar">
+      <div className="avatar avatar-img">
         <img src="https://i.ibb.co/zS38BWV/9434621.png" alt="Ashmit Kumar" />
       </div>
       <h1>Ashmit Kumar</h1>

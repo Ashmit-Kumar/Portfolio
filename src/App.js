@@ -5,7 +5,7 @@ import About from "./component/AboutMe";
 import Education from "./component/Education";
 import Projects from "./component/Projects";
 import Contact from "./component/Contact.js";
-
+import Skills from "./component/Skills.js";
 function App() {
   return (
     <div className="app">
@@ -17,6 +17,7 @@ function App() {
         <MainSection />
         <About />
         <Education />
+        <Skills />
         <Projects />
         <Contact />
       </div>
