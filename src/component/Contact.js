@@ -22,7 +22,7 @@ function Contact() {
   };
 
   return (
-    <section className="contact-section">
+    <div className="contact-section">
       <div>
         <h2 className="contact-title">Get In Touch</h2>
         <p className="contact-message">
@@ -61,7 +61,7 @@ function Contact() {
           Send Message
         </button>
       </form>
-    </section>
+    </div>
   );
 }
 

@@ -7,15 +7,12 @@
   /* text-align: center; */
   padding: 30px; /* Decreased padding */
   height: 100vh; /* Full viewport height */
-  margin-left: 100px; /* Keep this if you still need to account for sidebar */
 }
 
 /* Avatar Styling */
-.avatar-img{
+
+.avatar-img img {
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
-  margin-left: 400px;
-}
-.avatar img {
   width: 200px; /* Decreased avatar size */
   border-radius: 45%;
 }

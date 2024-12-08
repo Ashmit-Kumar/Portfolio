@@ -13,14 +13,26 @@ function App() {
 
       <Sidebar />
       <div className="sections">
+  <div id="home" >
+    <MainSection />
+  </div>
+  <div id="about" >
+    <About />
+  </div>
+  <div id="education" >
+    <Education />
+  </div>
+  <div id="skills" >
+    <Skills />
+  </div>
+  <div id="projects" >
+    <Projects />
+  </div>
+  <div id="contact" >
+    <Contact />
+  </div>
+</div>
 
-        <MainSection />
-        <About />
-        <Education />
-        <Skills />
-        <Projects />
-        <Contact />
-      </div>
     </div>
   );
 }

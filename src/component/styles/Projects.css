@@ -2,13 +2,14 @@
   padding: 50px;
   background-color: #f4f4f4;
   font-family: Arial, sans-serif;
-  margin-left: 70px;
+  /* margin-left: 70px; */
+  margin-top: 0px;
 }
 
 .section-title {
   text-align: center;
   font-size: 2rem;
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
 }
 
 .projects-container {
@@ -32,7 +33,7 @@
   font-size: 1.2rem;
   font-weight: bold;
   color: #333;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
 }
 
 .project-description {

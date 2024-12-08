@@ -58,8 +58,11 @@ section {
 
 .projects-section {
   background-color: #ede7f6;
+  margin-left: 0px;
+  margin-top: 0px;
 }
 
 .contact-section {
   background-color: #f9fbe7;
+  margin-bottom: 0px;
 }
